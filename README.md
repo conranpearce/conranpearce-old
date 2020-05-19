@@ -1,4 +1,4 @@
-# Old GitHub pages account
+# Old GitHub pages website
 Basic webpage for displaying information about myself, such as programming languages and projects.
 
 HTML5, CSS3 and JavaScript have been used to create the site.
