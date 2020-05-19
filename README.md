@@ -1,4 +1,4 @@
-# conranpearce.github.io
+# Old GitHub pages account
 Basic webpage for displaying information about myself, such as programming languages and projects.
 
 HTML5, CSS3 and JavaScript have been used to create the site.
@@ -9,9 +9,9 @@ There are no prerequisites for this project.
 
 Netlify has been linked to the GitHub repository to be able to have live sites up to date with the code being committed.
 
-Develop branch live site at https://conranpearce-develop.netlify.app/
+Develop branch live site at https://conranpearce-old-develop.netlify.app/
 
-Live deployment (through GitHub Pages) at https://conranpearce.github.io/
+Live deployment at https://conranpearce-old.netlify.app/
 
 ## Compatability
 The page should be able to be displayed upon various browsers and media, with slight alterations to fit the display.
